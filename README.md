@@ -1,2 +1,2 @@
-# Yu-Deployment-Toolkit
+# Deployment Toolkit
 
