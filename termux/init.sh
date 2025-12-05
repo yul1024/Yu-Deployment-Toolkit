@@ -1,3 +1,4 @@
+# url: https://termux.dev/en/
 # 初始化，安装必要的文件。
 
 # 我会去使用的repositories
