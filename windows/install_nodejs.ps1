@@ -9,10 +9,8 @@
 
 # Download and install Node.js:
 choco install nodejs --version="24.11.1"
-
 # Verify the Node.js version:
 node -v # Should print "v24.11.1".
-
 # Verify npm version:
 npm -v # Should print "11.6.2".
 
