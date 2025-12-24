@@ -24,6 +24,9 @@ This repository evolves alongside my daily workflow and the new challenges I enc
 - [ ] **Containerization**: Migrating specific build workflows to **Docker** images.
 
 
-## Related Resources
-- [Python-Environment-Configs](https://github.com/yuliu625/Yu-Python-Environment-Configs): A specialized repository for Python environment configurations across various toolchains (Conda, Poetry, Pipenv, etc.).
+## Related Projects
+Other toolkits I maintain that you might find useful:
+- **[Python-Environment-Configs](https://github.com/yuliu625/Yu-Python-Environment-Configs)**: Environment configurations for the Python toolchain (Pip, Conda, UV, etc.).
+- **[Deployment-Toolkit](https://github.com/yuliu625/Yu-Deployment-Toolkit)**: A collection of native OS scripts (Shell/PowerShell).
+- **[CLI-Wrapper](https://github.com/yuliu625/Yu-CLI-Wrapper)**: A Python-wrapped set of complex CLI tools for safer, friendlier operations.
 
